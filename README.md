@@ -85,7 +85,11 @@ Jefill ni su didesain untuk terima input dari *pipeline* (stdin) terus eksekusi 
 **Liat list pattern yang ko su save:**
 
 ```bash
-jefill list
+jefill -list
+```
+**update pattern yang sa su save di sa pu repo pribadi: **[Bernic777/jefill-pattern](https://github.com/Bernic777/jefill-pattern)**
+```bash
+jefill -update
 ```
 
 **1. Baca input dari file text (contoh pake pattern 'uniqueparam'):**

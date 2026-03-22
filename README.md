@@ -31,7 +31,7 @@ Kenapa sa bikin begini? Supaya super aman, kawan! Kalo ada hacker atau orang lua
 Ko pastikan su install Go di ko pu mesin (lokal atau VPS). Kalo su beres, ko hantam command ni:
 
 ```bash
-go install github.com/username-github-anda/jefill@latest
+go install github.com/Bernic777/jefill@latest
 ```
 
 *(Note: pastikan `$GOPATH/bin` su masuk di ko pu environment `PATH` e, supaya command-nya bisa dipanggil dari mana saja).*

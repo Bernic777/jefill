@@ -20,7 +20,7 @@ func printBanner() {
       | |  __/ | | || | |
       | |\___|_| |_||_|_|
      _/ |                
-    |__/       v2.0.0    
+    |__/       v1.0.0    
 `
 	fmt.Fprintln(os.Stderr, banner)
 }
